@@ -22,3 +22,14 @@ const c = "this is a variable using const";
 //number, string, boolean, null/object, undefined
 var undefinedVariable;
 console.log(typeof(undefinedVariable));
+document.write("this is a test");
+
+function myfunction()
+{
+    x = 10;
+    y = 5;
+    document.write(x + y);
+}
+// apparently variable without var is global
+// not working though
+document.write(x);
