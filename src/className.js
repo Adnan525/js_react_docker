@@ -6,3 +6,7 @@ function inputFun()
         x[i].style.color = "red";
     }
 }
+
+// id to access a since element
+// tag name to access all elements of a tag
+// class name to access all elements of a class
