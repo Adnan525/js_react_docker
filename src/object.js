@@ -29,3 +29,4 @@ document.write(car2.make);
 car2.color = "red";
 document.write("<br>")
 document.write(car2.color);
+// delete car2.color;
